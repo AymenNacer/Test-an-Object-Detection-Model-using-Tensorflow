@@ -1,7 +1,7 @@
 # Test-an-Object-Detection-Model-using-Tensorflow-
-This notebook will use a pre-trained model to detect objects in an image.
-Note: if you are not familiar with google collab all you need to do is run the codes one by one
-after the SETUP step drag and drop images to test from Files->models->research->object_detection->test_images
+* This notebook will use a pre-trained model to detect objects in an image.
+* Note: if you are not familiar with google collab all you need to do is run the codes one by one
+* after the SETUP step drag and drop images to test from Files->models->research->object_detection->test_images
 
 ![Capture](https://user-images.githubusercontent.com/67188835/89120480-4cc45a00-d4bf-11ea-8116-cc26671ca1b1.PNG)
 
