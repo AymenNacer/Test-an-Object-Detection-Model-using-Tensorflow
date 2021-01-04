@@ -1,4 +1,5 @@
 # Test-an-Object-Detection-Model-using-Tensorflow-
+(Smart Methods Internship) 
 * This notebook will use a pre-trained model to detect objects in an image.
 * Note: if you are not familiar with google collab all you need to do is run the codes one by one
 * after the SETUP step drag and drop images to test from Files->models->research->object_detection->test_images
